@@ -98,6 +98,7 @@ Input: [20,10,0,0,0,10,20,30] (start =5, size=5) Output: True.
 Input:[10,20,0,0,0,10,20,30] (start =5, size=5) Output: False
 
 Ans: ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%201/task%209.py">Task 9</a> <br>
+
 10. Intersection
 Write a method/function that takes two circular arrays, their sizes and start indexes and returns a linear array containing the common elements between the two circular arrays.
 Input: 
@@ -105,8 +106,8 @@ Circular array 1 : [40,50,0,0,0,10,20,30] (start_1 =5, size_1 =5)
 [10 20 30 40 50]
 Circular array 2 : [10,20,5,0,0,0,0,0,5,40,15,25] (start_2=8, size_2 =7)
 [5 40 15 25 10 20 5]
+Output:[10,20,40]
 
-Output: [10,20,40]
 Ans: ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%201/task%2010.py">Task 10</a> <br>
 
 11. Suppose you have been hired to develop a musical chair game. In this game there will be 7 participants and all of them will be moving clockwise around a set of 7 chairs organized in a circular manner while music will be played in the background. You will control the music using random numbers between 0-3.If the generated random number is 1, you will stop the music and if the number of participants who are still in the game is n, the participants at position (n/2) will be eliminated. Each time a participant is eliminated, a chair will be removed and you have to print the player names who are still in the game.The game will end when there will be only one participant left. At the end of the game,display the name of the winner.
