@@ -7,9 +7,9 @@
 
 
 # LAB 1 📝
-<spoiler>
-⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%201/task%201.py">Task 1</a>
-⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%201/task%202.py">Task 2</a>
+
+    ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%201/task%201.py">Task 1</a> <br>
+    ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%201/task%202.py">Task 2</a>  <br>
 ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%201/task%203.py">Task 3</a>
 ⚡  <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%201/task%204.py">Task 4</a>
-</spoiler>
+
