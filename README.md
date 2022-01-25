@@ -221,3 +221,43 @@ Sample Output
 1 -> 8 -> 3 -> 2 -> 5
 
 Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%202/task%203.py">Task 3</a> <br>
+
+# LAB 3 - Doubly Linked List 📝
+
+1. i) Create a Node class which will hold three fields i.e an integer element and a reference to the next Node along with a reference to the previous Node.
+ii) Create a Dummy Headed Doubly Circular Linked list Abstract Data Type (ADT)named DoublyList.The elements in the list are Nodes consisting of an integer type key (all keys are unique) and a reference to the next node and a reference to the previous Node.
+[You are not allowed to use any global variable other than head.]
+
+2. (Basic operations) (20 marks)
+Constructors: (3)
+a.  	DoublyList (int [] a) or def __intit__(self,a)
+
+Pre-condition: Array cannot be empty.
+Post-condition:This is the default constructor of MyList class. This constructor creates a Dummy Headed Doubly Circular Linked list list from an array.
+
+
+void showList ( ) or def showList(self) (1)
+
+Precondition: None.
+Postcondition: Outputs the keys of the elements of the order list. If the list is empty, outputs “Empty list”.
+
+void insert (Node newElement ) or def insert(self, newElement) (4)
+Pre-condition: None.
+Post-condition: This method inserts newElement at the tail of the list. If an element with the same key as newElement already exists in the list, then it concludes the key already exists and does not insert the key.
+
+void insert (int newElement, int index) or def insert(self, newElement, index) (4)
+
+Pre-condition: The list is not empty.
+Post-condition: This method inserts newElement at the given index of the list. If an element with the same key as newElement value already exists in the list, then it concludes the key already exists and does not insert the key. [You must also check the validity of the index].
+
+void remove (int index) or def remove(self, index)  (4)
+
+Pre-condition: The list is not empty.
+Post-condition: This method removes the Node at the given index of the list.[You must also check the validity of the index].
+int removeKey(int deleteKey) or def removeKey(self, deletekey) (4)
+Pre-condition: List is not empty.
+Post-condition: Removes the element from a list that contains the deleteKey and returns the deleted key value.
+ 
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%203/task1%2B2.py">Task 1+2</a> <br>
+
+
