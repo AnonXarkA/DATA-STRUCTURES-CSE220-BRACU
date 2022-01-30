@@ -314,17 +314,33 @@ Assignment Tasks:
 1. [Very Easy] [5 Marks each] 
 
 Implement a recursive algorithm to find factorial of n.   
-Implement a recursive algorithm to find the n-th Fibonacci number.
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%205/Task%201%20a.py">Task 1 A</a> <br>
+
+Implement a recursive algorithm to find the n-th Fibonacci number. 
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%205/Task%201%20b.py">Task 1 B</a> <br> 
+
 Print all the elements of a given array recursively.
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%205/Task%201%20c.py">Task 1 C</a> <br> 
+
 Given base and n that are both 1 or more, compute recursively (no loops) the value of base  to the n power, so powerN(3, 2) is 9 (3 squared). 
 powerN(3, 1) → 3 
 powerN(3, 2) → 9 
 powerN(3, 3) → 27 
 
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%205/Task%201%20d.py">Task 1 D</a> <br>
+
 2. [Easy] [5 Marks each] 
 a)Implement a recursive algorithm that takes a decimal number n and converts n to its corresponding (you may return as a string) binary number.
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%205/Task%202%20a.py">Task 2 A</a> <br> 
+
 b) Implement a recursive algorithm to add all the elements of a non-dummy headed singly linked linear list. Only head of the list will be given as parameter where you may assume every node can contain only integer as its element.
 Note: you’ll need a Singly Node class for this code.
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%205/Task%202%20b.py">Task 2 B</a> <br> 
 
 c) Implement a recursive algorithm which will print all the elements of a non-dummy headed singly linked linear list in reversed order.
 Example: if the linked list contains 10, 20, 30 and 40, the method will print
@@ -334,6 +350,7 @@ Example: if the linked list contains 10, 20, 30 and 40, the method will print
 10
 Note: you’ll need a Singly Node class for this code.
 
+Ans:  ⚡  <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%205/Task%202%20c.py">Task 2 C</a> <br>
 
 3. [Medium] [8 Marks] 
 
@@ -346,6 +363,8 @@ public int hocBuilder (int height){
 OR 
 def hocBuilder(height): 
 #TO DO 
+
+Ans:  ⚡  <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%205/Task%203.py">Task 3</a> <br>
 
 
 4. [Hard] [ 10 + 10 = 20 Marks]
@@ -361,7 +380,7 @@ Sample Output:
 
 1 2 3 4 5
 
-
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%205/Task%204%20a.py">Task 4 A</a> <br>
 
 b. Print the following pattern for the given input (you must use recursion): Sample Input: 5 
 Sample Output: 
@@ -376,7 +395,7 @@ Sample Output:
 
 1 2 3 4 5
 
-
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%205/Task%204%20b.py">Task 4 B</a> <br>
 
 5. [Very Hard] [12 Marks] Suppose, you are working in a company ‘X’ where your job is to calculate the profit based  on their investment.  
 If the company invests 100,000 USD or less, their profit will be based on 75,000 USD as  first 25,000 USD goes to set up the business in the first place. For the first 100,000 USD,  the profit margin is low: 4.5%. Therefore, for every 100 dollar they spend, they get a profit  of 4.5 dollar. 
@@ -424,6 +443,8 @@ Output:
 2. Investment: 100000; Profit: 3375.0 
 3. Investment: 250000; Profit: 15375.0 
 4. Investment: 350000; Profit: 23375.0 
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%205/Task%205.py">Task 5</a> <br>
 
 
 
