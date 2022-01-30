@@ -447,6 +447,45 @@ Output:
 Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%205/Task%205.py">Task 5</a> <br>
 
 
+# LAB 6 - Searching and Sorting 📝
+
+1. Sort an array RECURSIVELY using selection sort algorithm
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%206/Task%201.py">Task 1</a> <br>
+
+2. Sort an array RECURSIVELY using insertion sort algorithm.
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%206/Task%202.py">Task 2</a> <br> 
+
+3. Sort a singly linked sequential list using bubble sort algorithm.
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%206/Task%203.py">Task 3</a> <br> 
+
+4. Sort a singly linked sequential list using selection sort algorithm.
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%206/Task%204.py">Task 4</a> <br> 
+
+5. Sort a DOUBLY linked sequential list using insertion sort algorithm.
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%206/Task%205.py">Task 5</a> <br> 
+
+6. Implement binary search algorithm RECURSIVELY.
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%206/Task%206.py">Task 6</a> <br>
+ 
+7. Implement a recursive algorithm to find the n-th Fibonacci number using memoization.
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%206/Task%207.py">Task 7</a> <br>
+
+# LAB 7 - Key Index Searching & Sorting, Hashing 📝 
+
+
+
+
+
+
+
+
 
 
 
