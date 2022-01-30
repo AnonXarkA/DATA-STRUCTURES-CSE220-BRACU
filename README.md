@@ -479,10 +479,89 @@ Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blo
 
 # LAB 7 - Key Index Searching & Sorting, Hashing 📝 
 
+Task 1 on Key index Searching & Sorting (25 marks)
+Create a KeyIndex class with the following properties : 
+
+Fields: 
+
+int [ ] k; 
+
+Description
+An array of integers. 
+
+Note: You may maintain another global variable(java)/instance variable(python) if needed (but you can’t use more than one).
+
+Constructor:(10 marks)
+KeyIndex(int [ ]a)
+
+
+Description:
+
+
+This constructor takes an array of integers a and populates array k with the element in a as indices into k.
+
+Note: make sure the build-up of your array k supports negative and non-distinct integers.
+Methods:
+
+search (int val)    (5 marks)
+Description:
+This method searches for the value val within the array and returns true if found or false otherwise.
+
+sort ()             (10 marks)
+Description:
+
+This method will return the sorted form of the array that had been passed into the constructor.
+NOTE: Create a tester class or write tester statements to check whether the methods in your KeyIndex class work properly. You need to submit both the classes as a part of your assignment.                                                           (5 marks)
 
 
 
+Ans:  ⚡  <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%207/Task%201.py">Task 1</a> <br>
 
+Task 2 on Hashing (15 marks)
+
+ Given an array containing Strings, you need to write a code to store them in a hashtable. Assume that the Strings contain a combination of capital letters and numbers, and the String array will contain no more than 9 values.Use the hash function to be the
+ (total number of consonants*24 + summation of the digits) %9. In case of a collision, use linear probing. 
+For a String “ST1E89B8A32”, it’s hash function will produce the value=(3*24+(1+8+9+8+3+2))%9=4, hence it will be stored in index 4 of the hash table.                      
+
+Marks distribution: 
+Hash function calculation, method properly written =10 marks
+Linear probing properly implemented= 5 marks         
+
+Ans:  ⚡   <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%207/Task%202.py">Task 2</a> <br>
+
+
+# LAB 8 - Trees and Graph 📝
+
+
+1. RECURSIVELY calculate the height of a tree.
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%208/Task%201.py">Task 1</a> <br>
+
+2. RECURSIVELY calculate the level of a Node in a tree.
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%208/Task%202.py">Task 2</a> <br>
+
+3. Print elements of all the Nodes of a tree using Pre-order Traversal.
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%208/Task%203.py">Task 3</a> <br>
+
+4. Print elements of all the Nodes of a tree using In-order Traversal.
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%208/Task%204.py">Task 4</a> <br>
+
+5. Print elements of all the Nodes of a tree using Post-order Traversal.
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%208/Task%205.py">Task 5</a> <br>
+
+6. Write a method which will evaluate whether two trees are exactly same or not.
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%208/Task%206.py">Task 6</a> <br>
+
+7. Write a method which will return a copy (new tree) of a given tree.
+
+Ans:  ⚡ <a href="https://github.com/AnonXarkA/DATA-STRUCTURES-CSE220-BRACU/blob/main/LAB%208/task%207.py">Task 7</a>
+
+<br>
 
 
 
